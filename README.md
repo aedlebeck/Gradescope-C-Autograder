@@ -14,7 +14,7 @@ Simple and easy to modify gradescope autograder for C/C++ files.
 * File is called from run_autograder
 
 **grade_util.py**
-* Contains Config of filenames and directories
+* Config of filenames and directories
 * Contains helper functions for testing
 * Keeps filenames/directories consistent throughout testing
 
