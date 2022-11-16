@@ -1,5 +1,7 @@
 # C/C++ Gradescope Autograder
-Simple and easy to modify gradescope autograder for C/C++ files.  
+Simple and easy to modify gradescope autograder for C/C++ files. 
+It is already setup to check for submission of correct files and for compilation. 
+It designed to read in STDOUT and produce a grade based on what STDOUT produces. 
 
 ## Documentation
 **setup.sh**  
